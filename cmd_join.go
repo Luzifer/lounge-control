@@ -5,9 +5,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Luzifer/lounge-control/sioclient"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
+
+	"github.com/Luzifer/lounge-control/sioclient"
 )
 
 func init() {
