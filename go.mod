@@ -5,6 +5,7 @@ go 1.14
 replace github.com/Luzifer/lounge-control/sioclient => ./sioclient
 
 require (
+	github.com/Luzifer/go_helpers/v2 v2.10.0
 	github.com/Luzifer/lounge-control/sioclient v0.0.0-00010101000000-000000000000
 	github.com/Luzifer/rconfig/v2 v2.2.1
 	github.com/gorilla/websocket v1.4.2 // indirect
